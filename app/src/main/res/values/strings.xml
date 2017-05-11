@@ -1,3 +1,8 @@
 <resources>
+
     <string name="app_name">SimpleGallery</string>
+
+    <string name="load_assets_error_message">There is an error when loading sample assets. Please reopen the app!</string>
+    <string name="transition_name">layout_transition</string>
+
 </resources>

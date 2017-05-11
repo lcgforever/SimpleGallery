@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#D3D3D3</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="control_normal">#FFFFFF</color>
+    <color name="control_highlight">#8997AD</color>
+    <color name="albumListBackground">#444444</color>
+    <color name="mainText">#444444</color>
+    <color name="photoNameText">#888888</color>
+
 </resources>

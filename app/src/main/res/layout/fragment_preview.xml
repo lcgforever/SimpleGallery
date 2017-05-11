@@ -1,0 +1,14 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:padding="2dp"
+    tools:context=".fragment.PreviewFragment">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/preview_photo_view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="500dp" />
+
+</RelativeLayout>
